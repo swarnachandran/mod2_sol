@@ -63,6 +63,8 @@ body {
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid #7d1913;
 }
+h1,h2,h3 {
+    text-align:centre;}
 
 
 /** END HEADER */
