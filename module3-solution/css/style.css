@@ -19,7 +19,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #fce29e;
+    background-color: blue;
 }
 
 .navbar-collapse {
