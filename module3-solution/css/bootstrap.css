@@ -1188,7 +1188,10 @@ h6,
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
-}
+  }
+h1 {
+  background-color: #4CAF50;
+  color: black;}
 h1 small,
 h2 small,
 h3 small,
