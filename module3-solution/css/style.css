@@ -39,9 +39,8 @@ body {
     font-weight: bolder;
     font-size: 1.8em;
     text-align: left;
-  
-
-}
+    background-color: blue;
+  }
 
 .navbar-brand a:hover {
     text-decoration: none;
