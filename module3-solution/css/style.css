@@ -4,6 +4,12 @@ body {
     color: #1a1a1a;
     background-color: #599e4b;
 }
+h1{
+    text-align: center;}
+h2{
+    text-align: center;}
+h3{
+    text-align: center;}
 
 
 /** HEADER **/
@@ -63,12 +69,7 @@ body {
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid #7d1913;
 }
-h1{
-    text-align:centre;}
-h2{
-    text-align:centre;}
-h3{
-    text-align:centre;}
+
 
 
 /** END HEADER */
