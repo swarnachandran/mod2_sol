@@ -10,7 +10,7 @@ body {
 /** HEADER **/
 
 #header-nav {
-    background-color: grey;
+    background-color: blue;
     border-radius: 0;
     border: 0;
 }
@@ -38,8 +38,7 @@ body {
     font-family: 'Abril Fatface', cursive;
     font-weight: bolder;
     font-size: 1.8em;
-    text-align: center;
-    background-color: grey;
+    text-align: left;
   
 
 }
